@@ -1,0 +1,64 @@
+{
+  "pensamentos": [
+    {
+      "id": "1",
+      "conteudo": "A vida é uma jornada cheia de desafios e recompensas. Para alcançar nossos objetivos, precisamos manter o foco e continuar avançando, mesmo quando as coisas parecem difíceis.",
+      "autoria": "Byanka",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "2",
+      "conteudo": "Quando acordamos, temos a oportunidade de fazer algo extraordinário. Cada novo dia nos permite crescer, aprender e tornar o mundo um lugar melhor com nossas ações e atitudes. Então eu quero que todos os dias sejam bons e altruistas, com sol e nada de nuvens",
+      "autoria": "Arianne",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "3",
+      "conteudo": "O segredo do sucesso é a perseverança. Muitas pessoas desistem quando as coisas ficam difíceis, mas os que persistem alcançam seus objetivos e inspiram os outros com seu exemplo. Então eu quero que todos os dias sejam bons e altruistas, com sol e nada de nuvens",
+      "autoria": "Vanessa",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "4",
+      "conteudo": "A criatividade é a capacidade de transformar o comum em algo extraordinário. Quando permitimos que nossa imaginação flua, conseguimos criar coisas incríveis e inovadoras.",
+      "autoria": "Carlos",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "5",
+      "conteudo": "O futuro é construído pelas ações do presente. Se desejamos um amanhã melhor, precisamos trabalhar hoje para alcançar nossos sonhos e metas. Cada passo conta.",
+      "autoria": "Lucas",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "6",
+      "conteudo": "A vida é como um livro, e nós somos os autores. Cada capítulo é uma nova oportunidade para contar uma história diferente. O que vamos escrever hoje? A decisão está em nossas mãos.  Então eu quero que todos os dias sejam bons e altruistas, com sol e nada de nuvens, pedro thiago joão no barquinho",
+      "autoria": "Maria",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "7",
+      "conteudo": "A determinação é o que nos mantém em movimento quando tudo parece estar contra nós. Com esforço e foco, podemos superar qualquer obstáculo e alcançar nossos sonhos mais ambiciosos. Então eu quero que todos os dias sejam bons e altruistas, com sol e nada de nuvens",
+      "autoria": "Pedro",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "8",
+      "conteudo": "Nunca subestime o poder de um pequeno gesto de bondade. Muitas vezes, são esses atos simples que fazem a diferença na vida das pessoas, tornando o mundo um lugar mais acolhedor e humano.",
+      "autoria": "Joana",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "9",
+      "conteudo": "O aprendizado é uma jornada sem fim. Mesmo quando achamos que já sabemos tudo, sempre há algo novo para descobrir, um novo desafio para superar ou uma nova habilidade para desenvolver.",
+      "autoria": "Ana",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "10",
+      "conteudo": "A coragem é a capacidade de agir apesar do medo. Quando enfrentamos nossos medos, crescemos e nos tornamos mais fortes. A coragem é o que nos move a tomar decisões que mudam nossas vidas.  Então eu quero que todos os dias sejam bons e altruistas, com sol e nada de nuvens, pedro thiago joão no barquinho",
+      "autoria": "Rafael",
+      "modelo": "modelo1"
+    }
+  ]
+}
